@@ -44,4 +44,6 @@ void int main()
 	{
 		printf("%d\t", sort[i]);
 	}     
+	
+	return 0;
 }
